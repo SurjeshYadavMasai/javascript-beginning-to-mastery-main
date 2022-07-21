@@ -11,4 +11,6 @@ Js ko leke gye ecma ke paas
 
  Members of TC39 baale decide krte h JS me kon se features aane chahiye
   
-  Js is backward compatible-- Iska mtlb Js apne purane featurs use krke bhi chal sakta h
+Js is backward compatible-- Iska mtlb Js apne purane featurs use krke bhi chal sakta h
+
+Babel is a Compiler -- ye naye featurs ko purane features me bdal deta h jisse purane browser me use kr saku
