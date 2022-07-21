@@ -1,0 +1,14 @@
+Mocha - LiveScript = JavaScript 
+Microsoft=           Jscript
+
+Js ko leke gye ecma ke paas 
+ ES1 - 1997
+ ES2
+ ES3
+ ES4
+ ES5 - 2009 (lots of new featurs)
+ ES6 (Modern JS)- 2015 (Sbse bdda update tha js ki history me)
+
+ Members of TC39 baale decide krte h JS me kon se features aane chahiye
+  
+  Js is backward compatible-- Iska mtlb Js apne purane featurs use krke bhi chal sakta h
